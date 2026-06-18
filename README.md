@@ -30,7 +30,7 @@ Spot the difference between a genuine risk pattern and a data or pipeline defect
 This project analyzes 1,500 digital transactions for Zephyr Bank, a UK-based fintech neobank serving over 20,000 active customers entirely through mobile app, web, and automated payment rails. The dataset spans the H1 2026 review window (January–May 2026) and covers three interlinked dimensions - customers, transaction types, and merchant categories, feeding a single fact table of transaction-level detail
 
 - **Tools:** Power BI
-- **Preview:**
+- **Preview:** [Dashboard on Google Drive →](https://drive.google.com/drive/folders/1YrClNDBD5KaY-baX-HrTeIA9ZY0ukKuA?usp=drive_link)
 - **Repository:** [View Project →](https://github.com/Opelobami/Zephyr-Bank-Transactional-Report)
 
 ---
